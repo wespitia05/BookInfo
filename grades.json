@@ -1,0 +1,23 @@
+[
+  {"name": "Exam 1",
+    "category": "Exams",
+    "score": 70},
+  {"name": "Hwk 1",
+    "category": "Homework",
+    "score": 80},
+  {"name": "Hwk 2",
+    "category": "Homework",
+    "score": 90},
+  {"name": "Quiz 1",
+    "category": "Quizzes",
+    "score": 90},
+  {"name": "Quiz 2",
+    "category": "Quizzes",
+    "score": 100},
+  {"name": "Lab 1",
+    "category": "Labs",
+    "score": 60},
+  {"name": "Lab 2",
+    "category": "Labs",
+    "score": 70}
+]
